@@ -30,7 +30,7 @@ Recently started, in active development.
 
 ## Acknowledgments
 
-Special thanks to the ROCKE-3D team for making this groundbreaking model and its documentation available to the community. This project would not be possible without their continued efforts to support open scientific modeling.
+Special thanks to the ROCKE-3D team for making this GCM and its documentation available to the community.
 
 ## License
 MIT – fully open source. All outputs and datasets will be freely available, including documentation for reproducibility.
